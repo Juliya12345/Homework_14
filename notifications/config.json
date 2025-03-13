@@ -1,0 +1,16 @@
+{
+  "base": {
+    "project": "Homework",
+    "environment": "some env",
+    "comment": "comment here",
+    "reportLink": "https://jenkins.autotests.cloud/job/Demoqa_properties_HW12",
+    "language": "en",
+    "allureFolder": "/allure-report/",
+    "enableChart": true
+  },
+  "telegram": {
+    "token": "7901194744:AAEnIVdz-4RAEUPibn07obL_uAhsW6QZIME",
+    "chat": "-1002472961295",
+    "replyTo": ""
+  }
+}
