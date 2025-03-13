@@ -43,7 +43,7 @@ public class Tests extends TestBase{
 
     }
     @Test
-    @DisplayName("Открывается окно для заявки на главной странице")
+    @DisplayName("Открытие окна для заявки на главной странице")
     void applicationFormTest() {
         step("Открыть сайт", () -> {
             open(url); });
